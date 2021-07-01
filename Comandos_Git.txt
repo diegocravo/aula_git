@@ -1,0 +1,13 @@
+CURSO GIT E GITHUB - ALURA
+
+git init
+	- inicializar repositório
+git status
+	- mostra informações sobre o repositório
+git config --local user.name "Seu nome aqui"
+	- configurar username
+git config --local user.email "seu@email.aqui"
+	- configurar o email
+git add .
+	- adicionar todos os arquivos
+
